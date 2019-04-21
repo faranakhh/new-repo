@@ -7,7 +7,7 @@ public class Student {
     String name,ID,major;
     Department department;
     ArrayList<Course> listofcourses = new ArrayList<Course>();
-
+    String S;
     public Student(String name, String ID, String major, Department department) {
         this.name = name;
         this.ID = ID;
