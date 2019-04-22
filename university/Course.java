@@ -2,6 +2,11 @@ package com.university;
 
 import java.util.ArrayList;
 
+/**
+ *the class fedine a course for a department in a university
+ * @author faranak hosseini
+ * @version 1.1 ,13 ordibehesht ,98
+ */
 public class Course {
     String ID,name,credit;
     Department department;
